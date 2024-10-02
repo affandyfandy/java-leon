@@ -1,4 +1,4 @@
-package utils;
+package com.example.lecture_5_hw.utils;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
